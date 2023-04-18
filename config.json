@@ -1,10 +1,10 @@
 {
   "owners": [
-    "YOUR_TWITCH_NAME"
+    "hangolex_twitch"
   ],
-  "username": "Bot_USERNAME",
-  "password": "BOT OAUTH PASSWORD",
+  "username": "HangoBot",
+  "password": "k645tlr8m5luevvdmjb7v6dkrboe2n",
   "channels": [
-    "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
+    "hangolex_twitch"
   ]
 }
